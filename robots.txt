@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://theranba.github.io/sitemap.html.gz
+Sitemap: https://theranba.github.io/app/sitemap.html.gz
+Sitemap: https://theranba.github.io/assets/sitemap.html.gz
+Sitemap: https://theranba.github.io/css/sitemap.html.gz
+Sitemap: https://theranba.github.io/includes/sitemap.html.gz
+Sitemap: https://theranba.github.io/item/sitemap.html.gz
+Sitemap: https://theranba.github.io/src/sitemap.html.gz
